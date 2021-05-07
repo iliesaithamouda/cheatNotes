@@ -1,5 +1,3 @@
-package com.autodesk.webdelivery.dotcom.core.utils.abstractTree;
-
 import java.util.Iterator;
 
 public interface Tree<E> extends Iterable<E> {

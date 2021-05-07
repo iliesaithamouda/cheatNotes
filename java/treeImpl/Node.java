@@ -1,5 +1,3 @@
-package com.autodesk.webdelivery.dotcom.core.utils.abstractTree;
-
 import java.util.LinkedList;
 import java.util.List;
 

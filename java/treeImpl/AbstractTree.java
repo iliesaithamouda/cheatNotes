@@ -1,5 +1,3 @@
-package com.autodesk.webdelivery.dotcom.core.utils.abstractTree;
-
 public abstract class AbstractTree<E> implements Tree<E> {
 
     public boolean isRoot(Node<E> p) {
